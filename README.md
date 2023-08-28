@@ -8,3 +8,7 @@ Both have 10 lives. Whichever one loses all their lives first, loses the game. S
 Another distinction is the mouse's speed – it moves faster than the cat.
 
 I'm open to any comments or constructive criticism. Thank you!
+
+![pic1](https://github.com/DanaM16/The_Arch_Enemies/assets/74508043/1b6c9d4e-998e-4153-bbbf-07d2f4265db4)
+
+![pic2](https://github.com/DanaM16/The_Arch_Enemies/assets/74508043/da0f0800-f623-4daf-8f46-0a6cf9b5cff2)
